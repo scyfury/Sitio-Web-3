@@ -1,0 +1,2074 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Boeing to launch astronauts in new capsule, expanding space travel",
+            "url": "https:\/\/www.business-standard.com\/world-news\/boeing-to-launch-astronauts-in-new-capsule-expanding-space-travel-124050500006_1.html",
+            "time_published": "20240505T012312",
+            "authors": [
+                "AP"
+            ],
+            "summary": "After years of delays and stumbles, Boeing is finally poised to launch astronauts to the International Space Station for NASA. ( Photo: Bloomberg ) After years of delays and stumbles, Boeing is finally poised to launch astronauts to the International Space Station for NASA.",
+            "banner_image": "https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2024-03\/27\/full\/1711504454-2171.jpg?im=FitAndFill=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.061478,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.046816",
+                    "ticker_sentiment_score": "0.322902",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.442853",
+                    "ticker_sentiment_score": "0.19938",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating Claims Against Sprout Social, Inc. and Encourages Investors to Contact the Firm - Sprout Social  ( NASDAQ:SPT ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38631267\/investigation-alert-the-schall-law-firm-announces-it-is-investigating-claims-against-sprout-social",
+            "time_published": "20240505T011451",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LOS ANGELES, May 04, 2024 ( GLOBE NEWSWIRE ) -- The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Sprout Social, Inc. ( \"Sprout\" or \"the Company\" ) SPT for violations of the securities laws.",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.02917,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against SpaceMobile, Rivian, Compass Minerals, and Malibu Boats and Encourages Investors to Contact the Firm - Compass Minerals Intl  ( NYSE:CMP ) , AST SpaceMobile  ( NASDAQ:ASTS ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38631256\/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-space",
+            "time_published": "20240505T010000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 04, 2024 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of AST SpaceMobile, Inc. ASTS, Rivian Automotive, Inc. RIVN, Compass Minerals ...",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999186"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.100804,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MBUU",
+                    "relevance_score": "0.245959",
+                    "ticker_sentiment_score": "-0.00189",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.245959",
+                    "ticker_sentiment_score": "-0.083107",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASTS",
+                    "relevance_score": "0.093531",
+                    "ticker_sentiment_score": "0.024986",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMP",
+                    "relevance_score": "0.185781",
+                    "ticker_sentiment_score": "-0.13549",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CZ gets jail sentence, Gensler viewed Ether as security, and FBI targets mixers: Hodler's Digest, April 28 - May 4",
+            "url": "https:\/\/cointelegraph.com\/magazine\/cz-gets-jail-sentence-gensler-viewed-ether-as-security-and-fbi-targets-mixers-hodlers-digest-april-28-may-4\/",
+            "time_published": "20240505T002758",
+            "authors": [
+                "Editorial Staff"
+            ],
+            "summary": "CZ gets four months in prison, Gary Gensler had Ether as security for at least 1one year, and the FBI targets crypto mixers.",
+            "banner_image": null,
+            "source": "Cointelegraph",
+            "category_within_source": "n\/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": -0.133445,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SQ",
+                    "relevance_score": "0.071892",
+                    "ticker_sentiment_score": "-0.106668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.035983",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.583226",
+                    "ticker_sentiment_score": "-0.049078",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.348103",
+                    "ticker_sentiment_score": "0.147866",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Taylor Pendrith leads Byron Nelson as one of several seeking first PGA Tour victory",
+            "url": "https:\/\/apnews.com\/article\/byron-nelson-golf-a69b417d0dfe06f7de6bd5a55b492926",
+            "time_published": "20240505T000800",
+            "authors": [
+                "SCHUYLER DIXON"
+            ],
+            "summary": "McKINNEY, Texas ( AP ) - Taylor Pendrith has been here before - holding or sharing a lead after three rounds on the PGA Tour. The Canadian was one of six among the top 10 on the leaderboard seeking a first tour victory at the CJ Cup Byron Nelson.",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/348173c\/2147483647\/strip\/true\/crop\/4000x2664+0+2\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F0d%2F46e25b47e996fa9563191e8eaf3e%2Fd30ac531c21e4e13a0ebd41d07a2aba3",
+            "source": "Associated Press",
+            "category_within_source": "Markets",
+            "source_domain": "apnews.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.214847,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Onion export ban lifted on robust crop prospects; minimum export price 550\/tonne; plus 40% duty",
+            "url": "https:\/\/www.financialexpress.com\/policy\/economy-onion-export-ban-lifted-on-robust-crop-prospects-minimum-export-price-550tonne-plus-40-duty-3477321\/",
+            "time_published": "20240505T000000",
+            "authors": [
+                "Sandip Das"
+            ],
+            "summary": "Onion export ban lifted on robust crop prospects. minimum export price 550\/tonne. plus 40% duty The Financial Express ...",
+            "banner_image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2024\/05\/Onions-Bloomberg.jpg",
+            "source": "The Financial Express",
+            "category_within_source": "n\/a",
+            "source_domain": "www.financialexpress.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.009538,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "'Ordinary Angels' Is New On Blu-Ray And DVD. When Is It Coming To Streaming?",
+            "url": "https:\/\/www.forbes.com\/sites\/timlammers\/2024\/05\/04\/ordinary-angels-is-new-on-blu-ray-and-dvd-when-is-it-coming-to-streaming\/",
+            "time_published": "20240504T234204",
+            "authors": [
+                "Tim Lammers"
+            ],
+            "summary": "Ordinary Angels - Alan Ritchson and Hilary Swank's faith-based movie - is new on Blu-ray and DVD while the inspirational real-life drama awaits its streaming video on demand release date. There are other ways, though, to see it online before it hits SVOD.",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6636c0b6f48d655a7446650a\/0x0.jpg?format=jpg&crop=1054,667,x100,y0,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.026318,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.077845",
+                    "ticker_sentiment_score": "0.076972",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Taiga Building Products Issues Correction to Recently Announced Annual General Meeting Voting Result Details",
+            "url": "https:\/\/www.newswire.ca\/news-releases\/taiga-building-products-issues-correction-to-recently-announced-annual-general-meeting-voting-result-details-868814151.html",
+            "time_published": "20240504T234200",
+            "authors": [
+                "Taiga Building Products Ltd."
+            ],
+            "summary": "BURNABY, BC, May 4, 2024 \/CNW\/ - Taiga Building Products Ltd. announces a correction to the Company's press release dated May 3, 2024 pursuant to which detailed voting results from the annual general meeting of shareholders of the Company held on May 2, 2024 ( the \"Meeting\" ) were announced.",
+            "banner_image": "https:\/\/mma.prnewswire.com\/media\/2404850\/Taiga_Building_Products_Ltd__Taiga_Building_Products_Issues_Corr.jpg?p=facebook",
+            "source": "Canada Newswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [],
+            "overall_sentiment_score": -0.03035,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TGAFF",
+                    "relevance_score": "0.468029",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "It's Time to Rethink Holding This Beaten-Down Stock After an 80% Plummet",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/its-time-to-rethink-holding-this-beaten-down-stock\/",
+            "time_published": "20240504T231000",
+            "authors": [
+                "Nicholas Robbins"
+            ],
+            "summary": "Do iRobot's struggles after the Amazon deal failure confirm sell signals?",
+            "banner_image": "https:\/\/g.foolcdn.com\/editorial\/images\/775438\/video-games-gaming-celebration-play.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.839681"
+                }
+            ],
+            "overall_sentiment_score": 0.142972,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IRBT",
+                    "relevance_score": "0.475838",
+                    "ticker_sentiment_score": "0.087968",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.297661",
+                    "ticker_sentiment_score": "0.025656",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Hong Kong's crypto ETFs see low trading volumes amid slumping bitcoin price",
+            "url": "https:\/\/www.scmp.com\/tech\/blockchain\/article\/3261431\/hong-kongs-crypto-etfs-bumpy-start-amid-slumping-bitcoin-price-low-trading-volumes",
+            "time_published": "20240504T230029",
+            "authors": [
+                "Xinmei Shen"
+            ],
+            "summary": "The city's three ETFs that invest directly into bitcoin saw US$5.5 million change hands on Friday, down from US$8.6 million in their Tuesday debut.",
+            "banner_image": "https:\/\/cdn.i-scmp.com\/sites\/default\/files\/styles\/768x768\/public\/d8\/images\/canvas\/2024\/05\/04\/71522525-8a69-464c-a506-b7ba1ea27d46_960eb95d.jpg?itok=bfHaOe00&v=1714810403",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.163122,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.093653",
+                    "ticker_sentiment_score": "0.231171",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.093653",
+                    "ticker_sentiment_score": "0.104544",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.519739",
+                    "ticker_sentiment_score": "0.019633",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Across the aisle by P Chidambaram: Mr Modi acknowledges hero of LS 2024",
+            "url": "https:\/\/www.financialexpress.com\/opinion\/across-the-aisle-by-p-chidambaram-mr-modi-acknowledges-hero-of-ls-2024\/3477305\/",
+            "time_published": "20240504T230000",
+            "authors": [
+                "P Chidambaram"
+            ],
+            "summary": "The Congress's manifesto for the 2024 Lok Sabha elections was a product that was in the making since 2019. Mr Rahul Gandhi undertook a historic journey ( yatra ) on foot from Kanyakumari to Kashmir listening to the concerns of ordinary people and witnessing, first hand, how and in what conditions ...",
+            "banner_image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2024\/05\/Narendra-Modi-IE.jpg",
+            "source": "The Financial Express",
+            "category_within_source": "n\/a",
+            "source_domain": "www.financialexpress.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.211444,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Samsung Galaxy S24 Special Offers Will Accelerate AI Advantage",
+            "url": "https:\/\/www.forbes.com\/sites\/ewanspence\/2024\/05\/04\/samsung-galaxy-s24-ultra-special-offer-discount-bonus-new-galaxy-s24\/",
+            "time_published": "20240504T225518",
+            "authors": [
+                "Ewan Spence"
+            ],
+            "summary": "Samsung has been aggressively marketing the Galaxy S24 range of smartphones since its launch in late January 2024. In addition to extensive online and print marketing, keen watchers of the South Korean company have noted an increase in special offers, discounts, and bundled offers for the three ...",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65bd6ec07d60b21e797b23b2\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.300821,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.463792",
+                    "ticker_sentiment_score": "0.36368",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.121322",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett's company rejects proposals, but it faces lawsuit over how it handled one last year",
+            "url": "https:\/\/apnews.com\/article\/berkshire-hathaway-warren-buffett-shareholder-meeting-lawsuit-c8a06d66256f902157e15b5ea717a9c7",
+            "time_published": "20240504T223500",
+            "authors": [
+                "JOSH FUNK"
+            ],
+            "summary": "OMAHA, Neb. ( AP ) - Shareholder proposals are usually uneventful at . But Warren Buffett and the company are now facing a lawsuit over the way one presenter was treated last year.",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/a03fac6\/2147483647\/strip\/true\/crop\/3857x2569+0+1\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F6a%2F480fde4952dc8097eecdfdb1b967%2F1e8ecfb8b63745ef8a490dcea7433818",
+            "source": "Associated Press",
+            "category_within_source": "Business",
+            "source_domain": "apnews.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.050942,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.062761",
+                    "ticker_sentiment_score": "-0.288579",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NSC",
+                    "relevance_score": "0.062761",
+                    "ticker_sentiment_score": "0.072698",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Snowflake  ( NYSE:SNOW ) : This AI Stock Is Severely Underrated",
+            "url": "https:\/\/markets.businessinsider.com\/news\/stocks\/snowflake-nyse-snow-this-ai-stock-is-severely-underrated-1033328873",
+            "time_published": "20240504T222319",
+            "authors": [
+                "Tipranks"
+            ],
+            "summary": "Snowflake (NYSE:SNOW): This AI Stock Is Severely Underrated - Markets Insider ...",
+            "banner_image": "https:\/\/blog.tipranks.com\/wp-content\/uploads\/2024\/05\/image-141.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.214591,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.040622",
+                    "ticker_sentiment_score": "0.010812",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNOW",
+                    "relevance_score": "0.584894",
+                    "ticker_sentiment_score": "0.324395",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett Discusses Apple, Cash, Insurance, Artificial Intelligence  ( AI ) , and More at Berkshire Hathaway's Annual Meeting",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/buffett-2024-meeting-berkshire-hathaway-stock\/",
+            "time_published": "20240504T221900",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "Berkshire is bolstering its cash reserves and passing on riskier bets.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F775878%2Fbuffett-fool-image.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999355"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.185069,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.326508",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.270108",
+                    "ticker_sentiment_score": "0.113063",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.326508",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.071209",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Pablo L\u00f3pez strikes out 8 in 6 innings as Twins beat Red Sox 3-1 for 12th straight victory",
+            "url": "https:\/\/apnews.com\/article\/twins-red-sox-score-d80f2cdc7c7e91eb4c76357043246814",
+            "time_published": "20240504T221900",
+            "authors": [
+                "MIKE COOK"
+            ],
+            "summary": "MINNEAPOLIS ( AP ) - Pablo L\u00f3pez struck out eight in six strong innings, Max Kepler homered and the Minnesota Twins extended their winning streak to 12 games with a 3-1 win over the Boston Red Sox on Saturday. The Twins have the longest winning streak in the majors this season.",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/5a8c922\/2147483647\/strip\/true\/crop\/3464x2307+0+1\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Ffb%2F099e026c16efb069289977251286%2F4d5dc46cbe0e40cb82f57bf62daed36a",
+            "source": "Associated Press",
+            "category_within_source": "Markets",
+            "source_domain": "apnews.com",
+            "topics": [],
+            "overall_sentiment_score": 0.119277,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.185232",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Kyle Larson eyes Indy 500-Coke 600 double as busy May begins for him at Kansas Speedway",
+            "url": "https:\/\/apnews.com\/article\/kansas-speedway-nascar-cup-series-b75f7ff14d4f71d52a12046e8e065cbd",
+            "time_published": "20240504T221400",
+            "authors": [
+                "Dave Skretta"
+            ],
+            "summary": "KANSAS CITY, Kan. ( AP ) - Kyle Larson began what will become a busy month of May on a small dirt track nestled in a crook of the Missouri River, where he started outside of the top 10 in his sprint car Friday night and managed to climb to third place by the finish.",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/14ce72f\/2147483647\/strip\/true\/crop\/3903x2600+0+2\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F0a%2Fed3e0bcf88a5f0411a39d0228645%2F926b3b726dcb496e881c801d2d80bca5",
+            "source": "Associated Press",
+            "category_within_source": "Business",
+            "source_domain": "apnews.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.196696,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.045224",
+                    "ticker_sentiment_score": "0.144089",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Berkshire Hathaway's Ajit Jain Cautions On Cyber Insurance Amid Risks: 'Each Time You Write A Cyber Insurance Policy, You Are Losing Money' - Aon  ( NYSE:AON ) , Arthur J. Gallagher  ( NYSE:AJG ) ",
+            "url": "https:\/\/www.benzinga.com\/news\/earnings\/24\/05\/38631112\/berkshire-hathaways-ajit-jain-cautions-on-cyber-insurance-amid-risks-each-time-you-write-a-cyber-in",
+            "time_published": "20240504T221249",
+            "authors": [
+                "Nabaparna Bhattacharya"
+            ],
+            "summary": "Cyber insurance has become a very fashionable space these days, said Ajit Jain, the vice chairman of insurance operations for Berkshire Hathaway Inc. BRK BRK. Over the last few years, it has become at least a $10 billion market globally.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/04\/Cyber-Security-Concept--Encryption--Cybe.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.014704,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AON",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.287075",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WTW",
+                    "relevance_score": "0.081276",
+                    "ticker_sentiment_score": "-0.281777",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "EFX",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "-0.154627",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.129245",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.191105",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Today's NYT 'Connections' Hints And Answers For Sunday, May 5",
+            "url": "https:\/\/www.forbes.com\/sites\/krisholt\/2024\/05\/04\/todays-nyt-connections-hints-and-answers-for-sunday-may-5\/",
+            "time_published": "20240504T213057",
+            "authors": [
+                "Kris Holt"
+            ],
+            "summary": "Looking for Saturday's Connections hints and answers? You can find them here: Hey, everyone! I hope you're having an excellent weekend. I'm easing back into reality after some much-needed time away, but I'm already planning my next couple of trips. Today's NYT Connections hints and answers are ...",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/64de654d82fd643c3ad8ae1f\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.227948,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "The Poignant Moment When Warren Buffett Called for 'Charlie' at Berkshire's Meeting",
+            "url": "https:\/\/www.barrons.com\/amp\/articles\/berkshire-hathaway-warren-buffett-charlie-munger-meeting-5b0d1b77",
+            "time_published": "20240504T211500",
+            "authors": [
+                "Andy Serwer"
+            ],
+            "summary": "Warren Buffett Calls for Charlie Munger at the Berkshire Hathaway Annual Meeting ...",
+            "banner_image": "https:\/\/images.barrons.com\/im-84328039\/social",
+            "source": "Barrons",
+            "category_within_source": "n\/a",
+            "source_domain": "www.barrons.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.138137,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.033468",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PARA",
+                    "relevance_score": "0.033468",
+                    "ticker_sentiment_score": "0.05473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.100168",
+                    "ticker_sentiment_score": "0.074876",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla's China FSD Goldmine, Rivian Receives Much-Needed Cash Boost, Fisker Lands In Another Legal Mess And More: Biggest EV Stories Of The Week - KraneShares Electric Vehicles and Future Mobility Index ETF  ( ARCA:KARS ) ",
+            "url": "https:\/\/www.benzinga.com\/markets\/equities\/24\/05\/38631004\/teslas-china-fsd-goldmine-rivian-receives-much-needed-cash-boost-fisker-lands-in-another-legal-m",
+            "time_published": "20240504T210913",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Electric vehicle shares mostly advanced this week, riding high on the broader market strength as the Federal Reserve hinted at potential rate cuts. Tesla's China FSD Potential, More Job Cuts : A surprise visit by Tesla, Inc.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/04\/Elon-Musk-Tesla.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.795202"
+                }
+            ],
+            "overall_sentiment_score": 0.093838,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.103109",
+                    "ticker_sentiment_score": "0.050447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.103109",
+                    "ticker_sentiment_score": "0.120174",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.254042",
+                    "ticker_sentiment_score": "0.163152",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.103109",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "0.103109",
+                    "ticker_sentiment_score": "0.050447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.154125",
+                    "ticker_sentiment_score": "0.097922",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages bluebird bio Inc. Investors to Inquire About Securities Class Action Investigation - BLUE - bluebird bio  ( NASDAQ:BLUE ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38630996\/rosen-a-leading-national-firm-encourages-bluebird-bio-inc-investors-to-inquire-about-securities-cl",
+            "time_published": "20240504T210400",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 04, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of bluebird bio Inc.",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.178346,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLUE",
+                    "relevance_score": "0.151064",
+                    "ticker_sentiment_score": "-0.077588",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.075874",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How Lockheed Martin Crushed Its Q1 Earnings Report",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/how-lockheed-martin-crushed-its-q1-earnings-report\/",
+            "time_published": "20240504T210300",
+            "authors": [
+                "Rich Smith"
+            ],
+            "summary": "Lockheed Martin stock got little credit for beating earnings last week. Could its stock be a bargain today?",
+            "banner_image": "https:\/\/g.foolcdn.com\/editorial\/images\/775194\/f35-close-up.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999974"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.24814,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.048036",
+                    "ticker_sentiment_score": "0.008958",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.236742",
+                    "ticker_sentiment_score": "0.043597",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.048036",
+                    "ticker_sentiment_score": "0.191803",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett-led Berkshire Hathaway posts record $189B in cash reserves - .com",
+            "url": "https:\/\/www.upi.com\/Top_News\/US\/2024\/05\/04\/berkshire-hathaway-warren-buffett-189B-cash-reserves\/1101714854655\/",
+            "time_published": "20240504T210240",
+            "authors": [],
+            "summary": "Warren Buffett-led Berkshire Hathaway posts record $189B in cash reserves UPI News ...",
+            "banner_image": "https:\/\/cdnph.upi.com\/sv\/ph\/og\/upi\/1101714854655\/2024\/1\/e7c073caf57f5a46ad2a0b9da6c6981e\/v1.5\/Warren-Buffett-led-Berkshire-Hathaway-posts-record-189B-in-cash-reserves.jpg",
+            "source": "UPI Business",
+            "category_within_source": "n\/a",
+            "source_domain": "www.upi.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.141371,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OXY",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.117195",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Like wildfires underwater': Worst summer on record for Great Barrier Reef as coral die-off sweeps planet",
+            "url": "https:\/\/www.cnn.com\/2024\/05\/04\/australia\/australia-great-barrier-reef-wildfires-climate-intl-hnk-dst\/index.html",
+            "time_published": "20240504T210000",
+            "authors": [
+                "Rebecca Wright",
+                "Tom Booth",
+                "Ivan Watson"
+            ],
+            "summary": "As the early-morning sun rises over the Great Barrier Reef, its light pierces the turquoise waters of a shallow lagoon, bringing more than a dozen turtles to life.",
+            "banner_image": "https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/whole-story-lei-thumb1.png?c=16x9&q=w_850,c_fill",
+            "source": "CNN",
+            "category_within_source": "Markets",
+            "source_domain": "www.cnn.com",
+            "topics": [],
+            "overall_sentiment_score": 0.038624,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.150122",
+                    "ticker_sentiment_score": "0.086473",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Musk Lets Nick Fuentes Rejoin X-And Quickly Picks Fight With ADL",
+            "url": "https:\/\/www.forbes.com\/sites\/brianbushard\/2024\/05\/04\/musk-lets-nick-fuentes-rejoin-x-and-quickly-picks-fight-with-adl\/",
+            "time_published": "20240504T205308",
+            "authors": [
+                "Brian Bushard"
+            ],
+            "summary": "Nick Fuentes X Account Reinstated, Again Forbes ...",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/66369da819b1a61778a37690\/0x0.jpg?format=jpg&crop=2898,1630,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.185776,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "-0.148998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "0.080539",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RDDT",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "-0.148998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "-0.148998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOX",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "-0.007978",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin Sprints Off With Meme Cousins Over The Weekend: Here Are 4 Cryptos Trading With 10%+ Gains - Emeren Group  ( NYSE:SOL ) ",
+            "url": "https:\/\/www.benzinga.com\/markets\/equities\/24\/05\/38630964\/dogecoin-sprints-off-with-meme-cousins-over-the-weekend-here-are-4-cryptos-trading-with-10-gains",
+            "time_published": "20240504T204446",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "The weekend dawned with frenzied activity in meme coins, spearheaded by a newcomer among the pack. The gains came on the back of broad-based strength seen in the cryptocurrency space. The Movers: Solana SOL\/USD-based, dog-themed meme coin Dogwifhat WIF\/USD, which launched in November 2023, led ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/04\/Dogecoin-Doge-Cryptocurrency-Means-Of-Pa.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.250659,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.163909",
+                    "ticker_sentiment_score": "0.177248",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.320974",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SOL",
+                    "relevance_score": "0.163909",
+                    "ticker_sentiment_score": "0.293455",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Mat Ishbia Is Right, The Phoenix Suns Can Still Make Strides With This Core",
+            "url": "https:\/\/www.forbes.com\/sites\/shaneyoung\/2024\/05\/04\/mat-ishbia-is-right-the-phoenix-suns-can-still-make-strides-with-this-core\/",
+            "time_published": "20240504T204053",
+            "authors": [
+                "Shane Young"
+            ],
+            "summary": "In the modern landscape of reactionary takes and this 'championship or bust' mentality floating around the NBA, the Phoenix Suns are taking too much heat. Of course, one could argue this is simply the nature of the business.",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/66357e9cbffb17f5dda9187a\/0x0.jpg?format=jpg&crop=3205,1802,x1,y37,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.087717,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Kentucky Derby fans pack the track for the 150th Run for the Roses",
+            "url": "https:\/\/apnews.com\/article\/kentucky-derby-horse-racing-1109ee29bba1cc592f643c9a67c4bdcd",
+            "time_published": "20240504T203400",
+            "authors": [
+                "CLAIRE GALOFARO"
+            ],
+            "summary": "Fans pack the track for the 150th Run for the Roses The Associated Press ...",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/e7206a8\/2147483647\/strip\/true\/crop\/6000x3997+0+2\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F8e%2F606c0d9cbf3e853dcd3016c91a2e%2F886b58c01bac4a36a2062a9cc242e847",
+            "source": "Associated Press",
+            "category_within_source": "Markets",
+            "source_domain": "apnews.com",
+            "topics": [],
+            "overall_sentiment_score": 0.176231,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHDN",
+                    "relevance_score": "0.120431",
+                    "ticker_sentiment_score": "0.04621",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How RTX Corp. Crushed Its Q1 Earnings Report",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/how-rtx-corp-crushed-its-q1-earnings-report\/",
+            "time_published": "20240504T203100",
+            "authors": [
+                "Rich Smith"
+            ],
+            "summary": "RTX stock is not cheap, but it still might be a buy.",
+            "banner_image": "https:\/\/g.foolcdn.com\/editorial\/images\/775183\/black-and-white-photo-of-a-missile-battery.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999476"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.94762"
+                }
+            ],
+            "overall_sentiment_score": 0.345328,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.05339",
+                    "ticker_sentiment_score": "0.143984",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Interested in Self-Driving Cars? This Company Will Be the Biggest Winner  ( Hint: It's Not Tesla ) .",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/interested-in-self-driving-cars-i-think-this-compa\/",
+            "time_published": "20240504T203000",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Tesla, Alphabet, and General Motors are all pursuing self-driving cars, but another company is playing a major role in the development of autonomous vehicles.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F775016%2Fgettyimages-1037080322-2.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.298725,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.541149",
+                    "ticker_sentiment_score": "0.46955",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.073773",
+                    "ticker_sentiment_score": "0.184874",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.356609",
+                    "ticker_sentiment_score": "0.166935",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Buffett Says No Other Americans Would Have Had To Pay Even A Dime In Federal Taxes If This Had Happened",
+            "url": "https:\/\/www.benzinga.com\/government\/24\/05\/38630925\/buffett-says-no-other-americans-would-have-had-to-pay-even-a-dime-in-federal-taxes-if-this-had-happe",
+            "time_published": "20240504T202308",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "While explaining why Berkshire Hathaway trimmed its Apple position at the annual shareholder meeting on Saturday, Warren Buffett made a comment that drew huge applause from the audience. The investment guru noted that Berkshire pays taxes at a 21% federal tax rate on the capital gains it earns on ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/04\/Warren-Buffett_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.112865,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "0.201966",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's the 1 Stock Warren Buffett Thinks Should Outperform the S&P 500 Without as Much Downside",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/heres-the-1-stock-warren-buffett-thinks-should-out\/",
+            "time_published": "20240504T202200",
+            "authors": [
+                "Adam Levy"
+            ],
+            "summary": "A big cash pile protects the above-average core operations of this stellar company.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F775096%2Fbuffett2-tmf.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.658903"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.298189,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.145396",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OXY",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.273555",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SIRI",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.273555",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.145396",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.145396",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.399204",
+                    "ticker_sentiment_score": "0.269072",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Just Met With Chinese Regulators. Here's Why That's Important.",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/elon-musk-just-met-with-chinese-regulators-heres-w\/",
+            "time_published": "20240504T201300",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "His discussions with Chinese government officials could have a major impact on Tesla's future.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F775286%2Fstatistic_id314759_teslas-domestic-and-international-revenue-2018-2023.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.259143,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.107016",
+                    "ticker_sentiment_score": "0.154402",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BIDU",
+                    "relevance_score": "0.107016",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.718177",
+                    "ticker_sentiment_score": "0.525871",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Google Parent Company Alphabet Just Proved Why Dividends Matter, Even for Growth Stocks",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/google-parent-company-alphabet-just-proved-why-div\/",
+            "time_published": "20240504T201000",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "Alphabet is still a great value, even after nearly doubling over the last 16 months.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F774701%2Fgettyimages-1430286042-1200x683-5d8f7e6.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.658903"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.293096,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.175433",
+                    "ticker_sentiment_score": "0.114289",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "0.31271",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.170003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.170003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Meet 6 Exquisite Animals Wrongly Declared Extinct-5 Of Them Live On",
+            "url": "https:\/\/www.forbes.com\/sites\/scotttravers\/2024\/05\/04\/meet-6-exquisite-animals-wrongly-declared-extinct-5-of-them-live-on\/",
+            "time_published": "20240504T200928",
+            "authors": [
+                "Scott Travers"
+            ],
+            "summary": "The Caspian tiger was once a thriving species, inhabiting the forested steppes of western and central Asia. At the peak of its reign, it could be found as far west as Ukraine and southern Russia and as far east as Siberia and northwestern China.",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/663671fbca20fd6b546c4ec6\/0x0.jpg?format=jpg&crop=1150,540,x0,y178,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.007224,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ATH",
+                    "relevance_score": "0.046006",
+                    "ticker_sentiment_score": "-0.012933",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Protesters removed from University of Michigan commencement",
+            "url": "https:\/\/www.cnn.com\/business\/live-news\/university-protests-pro-palestinian-israel-05-04-24\/h_e15281e5ca173beaf1a710dd5d220a88",
+            "time_published": "20240504T200400",
+            "authors": [
+                "CNN",
+                "By Dalia Faheid",
+                "Eva Rothenberg",
+                "Kaanita Iyer and Tori B. Powell"
+            ],
+            "summary": "Universities hold graduation ceremonies as students protest across the US: Live updates ...",
+            "banner_image": "https:\/\/dynaimage.cdn.cnn.com\/cnn\/digital-images\/org\/0edd0093-b4be-4758-8a1d-1ef30d23399d.jpg",
+            "source": "CNN",
+            "category_within_source": "Markets",
+            "source_domain": "www.cnn.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                }
+            ],
+            "overall_sentiment_score": -0.119119,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.020045",
+                    "ticker_sentiment_score": "-0.02302",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.080055",
+                    "ticker_sentiment_score": "-0.058589",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GETY",
+                    "relevance_score": "0.060085",
+                    "ticker_sentiment_score": "-0.06016",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Enphase Just Reported Its Lowest Quarterly Revenue in Over 3 Years. Is The Growth Story Officially Over?",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/enphase-just-reported-its-lowest-quarterly-revenue\/",
+            "time_published": "20240504T200300",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "The renewable energy stock remains a risky bet.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F774513%2Finstalling-solar-panels-on-roof-1200x799-779f864.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.046703,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.050786",
+                    "ticker_sentiment_score": "0.094955",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENPH",
+                    "relevance_score": "0.101367",
+                    "ticker_sentiment_score": "-0.117379",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "StockNews.com Initiates Coverage on Superior Drilling Products  ( NYSE:SDPI ) ",
+            "url": "https:\/\/www.defenseworld.net\/2024\/05\/04\/stocknews-com-initiates-coverage-on-superior-drilling-products-nysesdpi.html",
+            "time_published": "20240504T200052",
+            "authors": [
+                "Defense World Staff"
+            ],
+            "summary": "StockNews.com started coverage on shares of Superior Drilling Products ( NYSE:SDPI - Get Free Report ) in a report issued on Saturday. The firm set a \"buy\" rating on the stock. NYSE:SDPI opened at $1.24 on Friday. Superior Drilling Products has a 12-month low of $0.58 and a 12-month high of ...",
+            "banner_image": "https:\/\/www.marketbeat.com\/logos\/superior-drilling-products-inc-logo-1200x675.png?v=20230614063444",
+            "source": "Stocknews.com",
+            "category_within_source": "n\/a",
+            "source_domain": "www.defenseworld.net",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.356741,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "4 lessons for success from Berkshire shareholders' best Buffett and Munger stories",
+            "url": "https:\/\/www.cnbc.com\/2024\/05\/04\/4-stories-about-warren-buffett-and-charlie-munger-that-can-help-you-be-successful.html",
+            "time_published": "20240504T200005",
+            "authors": [
+                "Ryan Ermey"
+            ],
+            "summary": "Everyone at the Berkshire Hathaway meeting has a story about Warren Buffett or Charlie Munger. These four provide useful tips for success.",
+            "banner_image": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/107406282-MM-_Mari_Murdock-_Still_-_01.jpg?v=1714051787&w=750&h=422&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.818451"
+                }
+            ],
+            "overall_sentiment_score": 0.213024,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.048036",
+                    "ticker_sentiment_score": "0.151796",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How Much Money Does Billionaire Bill Gates Have Invested in Microsoft Stock?",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/how-much-money-does-billionaire-bill-gates-have-in\/",
+            "time_published": "20240504T200000",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "The billionaire investor still holds a significant stake in the company he co-founded.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F775600%2Fa-persons-hand-cupped-open-with-a-hologram-of-an-ai-chatbot-above-saying-hi-can-i-help-you.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.319546,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.753715",
+                    "ticker_sentiment_score": "0.449223",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's How Saving Just $5 per Day for 30 Years Can Create a $1 Million Portfolio",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/04\/heres-how-saving-just-5-per-day-for-30-years-can-c\/",
+            "time_published": "20240504T200000",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "You don't need to develop a secret strategy to earn solid returns. The key is to target growth stocks.",
+            "banner_image": "https:\/\/g.foolcdn.com\/editorial\/images\/774671\/an-advisor-showing-a-tablet-to-a-couple.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99246"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.414069,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.070517",
+                    "ticker_sentiment_score": "0.266157",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.070517",
+                    "ticker_sentiment_score": "0.266157",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.070517",
+                    "ticker_sentiment_score": "0.266157",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.276648",
+                    "ticker_sentiment_score": "0.462135",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "New mission could reveal secrets of the moon's 'hidden side'",
+            "url": "https:\/\/www.cnn.com\/2024\/05\/04\/world\/lunar-far-side-science-newsletter-wt-scn\/index.html",
+            "time_published": "20240504T200000",
+            "authors": [
+                "Ashley Strickland"
+            ],
+            "summary": "New mission could shed light on the secrets of the moon's 'hidden side' ...",
+            "banner_image": "https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/screen-shot-2024-05-03-at-10-37-52-am.jpg?q=w_1110,c_fill",
+            "source": "CNN",
+            "category_within_source": "Markets",
+            "source_domain": "www.cnn.com",
+            "topics": [],
+            "overall_sentiment_score": 0.026113,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.0378",
+                    "ticker_sentiment_score": "0.071965",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Fed Stands Despite Softening Jobs Market, Poor Earnings Guidance, Manufacturing Recession, CRE Foreclosures",
+            "url": "https:\/\/www.forbes.com\/sites\/greatspeculations\/2024\/05\/04\/fed-stands-despite-softening-jobs-market-poor-earnings-guidance-manufacturing-recession-cre-foreclosures\/",
+            "time_published": "20240504T195157",
+            "authors": [
+                "Robert Barone"
+            ],
+            "summary": "The Fed meeting and the jobs report were always destined to be financial market movers. The direction was the only question. In the normal course of events, a weaker than expected jobs report would cause angst in the financial markets ( i.e., falling prices ) . But, not this time.",
+            "banner_image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/66368aecf4d6876d9c916c5f\/0x0.png?format=png&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n\/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.096224,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "YUM",
+                    "relevance_score": "0.055046",
+                    "ticker_sentiment_score": "0.007032",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.027539",
+                    "ticker_sentiment_score": "0.006797",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.055046",
+                    "ticker_sentiment_score": "0.007032",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.027539",
+                    "ticker_sentiment_score": "0.006797",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSRGF",
+                    "relevance_score": "0.055046",
+                    "ticker_sentiment_score": "0.007032",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Krutrim launches developer offerings, Ola Maps cloud integration, Android AI chatbot app",
+            "url": "https:\/\/www.financialexpress.com\/business\/digital-transformation-krutrim-launches-developer-offerings-ola-maps-cloud-integration-android-ai-chatbot-app-3477377\/",
+            "time_published": "20240504T194500",
+            "authors": [
+                "Anees Hussain"
+            ],
+            "summary": "Ola founder Bhavish Aggarwal's AI startup, Krutrim, on Saturday, announced a slate of offerings aimed at driving AI innovation in India. The company unveiled Krutrim Cloud, providing access to large language models, AI compute infrastructure, and location services APIs.",
+            "banner_image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2024\/01\/krutim.jpg",
+            "source": "The Financial Express",
+            "category_within_source": "n\/a",
+            "source_domain": "www.financialexpress.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.174999,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APG",
+                    "relevance_score": "0.097259",
+                    "ticker_sentiment_score": "0.132045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.097259",
+                    "ticker_sentiment_score": "0.162897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.097259",
+                    "ticker_sentiment_score": "0.162897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.04872",
+                    "ticker_sentiment_score": "0.061291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.04872",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How to watch the Kentucky Derby live stream for free from anywhere",
+            "url": "https:\/\/www.businessinsider.com\/guides\/streaming\/how-to-watch-kentucky-derby-live-stream-2024",
+            "time_published": "20240504T193000",
+            "authors": [
+                "Lillian Brown"
+            ],
+            "summary": "Don your best hats, because the Kentucky Derby is back for its landmark 150th year. If you can't make it to Churchill Downs yourself, don't fret. We'll show you all of your best options when it comes to how to watch the Kentucky Derby, including live streams.",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [],
+            "overall_sentiment_score": 0.126499,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHDN",
+                    "relevance_score": "0.122269",
+                    "ticker_sentiment_score": "0.133698",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nearly 100,000 children in the US lost a parent to a drug overdose or gun violence in 2020, study finds",
+            "url": "https:\/\/www.cnn.com\/2024\/05\/04\/health\/parent-death-drug-overdose-gun-violence\/index.html",
+            "time_published": "20240504T193000",
+            "authors": [
+                "Deidre McPhillips"
+            ],
+            "summary": "Deaths from drug overdoses and firearm-related injuries have reached record levels in the United States in recent years, and it's created a \"double burden\" for children who face an increased risk of losing their parents and of dying themselves, according to the authors of a new study.",
+            "banner_image": "https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/gettyimages-1156527160.jpg?c=16x9&q=h_144,w_256,c_fill",
+            "source": "CNN",
+            "category_within_source": "Markets",
+            "source_domain": "www.cnn.com",
+            "topics": [],
+            "overall_sentiment_score": -0.352082,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.061949",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Goldman Sachs BDC  ( NYSE:GSBD )  Downgraded by StockNews.com to Hold",
+            "url": "https:\/\/www.defenseworld.net\/2024\/05\/04\/goldman-sachs-bdc-nysegsbd-downgraded-by-stocknews-com-to-hold.html",
+            "time_published": "20240504T192807",
+            "authors": [
+                "Defense World Staff"
+            ],
+            "summary": "Goldman Sachs BDC ( NYSE:GSBD - Get Free Report ) was downgraded by equities research analysts at StockNews.com from a \"buy\" rating to a \"hold\" rating in a research report issued to clients and investors on Saturday.",
+            "banner_image": "https:\/\/www.marketbeat.com\/logos\/goldman-sachs-bdc-inc-logo-1200x675.png?v=20221129110935",
+            "source": "Stocknews.com",
+            "category_within_source": "n\/a",
+            "source_domain": "www.defenseworld.net",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.192606,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.889454",
+                    "ticker_sentiment_score": "0.328726",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.084722",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GSBD",
+                    "relevance_score": "0.911269",
+                    "ticker_sentiment_score": "0.331118",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "More than half of the Fortune 100 uses Apple's Vision Pro headset",
+            "url": "https:\/\/cointelegraph.com\/news\/fortune-100-uses-apple-metaverse-virtual-mixed-augemented-reality-vision-pro-headset",
+            "time_published": "20240504T192052",
+            "authors": [
+                "Tristan Greene"
+            ],
+            "summary": "Spatial computing in the industrial metaverse appears to be paying off for the company that Steve Jobs built.",
+            "banner_image": "https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2024-05\/af883bf2-0b2d-4142-99ac-75fee68ca012.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n\/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.352946,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Real Madrid wins its record-extending 36th Spanish league title after Barcelona loses at Girona",
+            "url": "https:\/\/apnews.com\/article\/real-madrid-cadiz-barcelona-girona-liga-title-aaceb641a8af878fb85187f5e841ae25",
+            "time_published": "20240504T192000",
+            "authors": [
+                "JOSEPH WILSON"
+            ],
+            "summary": "BARCELONA, Spain ( AP ) - Real Madrid has won its record-extending 36th Spanish league title after securing an insurmountable 13-point lead over second-place Girona with four games remaining. Madrid reclaimed its domestic crown after beating Cadiz 3-0 earlier Saturday, and Barcelona then lost ...",
+            "banner_image": "https:\/\/dims.apnews.com\/dims4\/default\/53a934a\/2147483647\/strip\/true\/crop\/2063x1374+8+0\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fa0%2F06c038bd6fca7cfe1df905e3cbad%2Fe25c92071f7c40aca3df4634812d836e",
+            "source": "Associated Press",
+            "category_within_source": "Markets",
+            "source_domain": "apnews.com",
+            "topics": [],
+            "overall_sentiment_score": 0.161511,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BORUF",
+                    "relevance_score": "0.128363",
+                    "ticker_sentiment_score": "0.176702",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}

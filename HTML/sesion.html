@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>InfSea</title>
+    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+    <h1 class="text-bg-primary p-3"><em>InfSea</em></h1>
+    <div id="contenedor">
+        <nav>
+            <form class="position-absolute top-10 end-0">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Bienvenido <span id="userName"></span>
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <div class="d-flex justify-content-center">
+                                    <button type="button" class="btn btn-primary mx-auto">Cerrar Sesión</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>    
+            </form>
+        </nav>
+        
+        <section>
+                
+            <!--               tarjetas para las noticias                   -->
+            <div class="mx-auto p-2">
+                <div class="card" style="width: 60rem;">
+                    
+                    <!-- imagen para las tarjetas-->
+                    <img src="..." class="card-img-top" alt="...">
+                    
+                    <!-- cuerpo para el body -->
+                    <div class="card-body">
+                        <h5 class="card-title">titulo noticia</h5>
+                        <p class="card-text">descripcion noticias</p>
+                        <span>
+                            <a href="#" class="btn btn-primary">Ir al articulo original</a>
+                        </span>
+                    </div>
+            
+                </div>
+                
+            </div>
+            <div class="mx-auto p-2">
+                <div class="card" style="width: 60rem;">
+                    
+                    <!-- imagen para las tarjetas-->
+                    <img src="..." class="card-img-top" alt="...">
+                    
+                    <!-- cuerpo para el body -->
+                    <div class="card-body">
+                        <h5 class="card-title">titulo noticia</h5>
+                        <p class="card-text">descripcion noticias</p>
+                        <span>
+                            <a href="#" class="btn btn-primary">Ir al articulo original</a>
+                        </span>
+                    </div>
+            
+                </div>
+                
+            </div>
+        </section>
+    
+        <aside>
+            <!-- Contenido de la barra lateral -->
+        </aside>
+    
+        <footer>
+            <!-- Contenido del pie de página -->
+        </footer>
+    </div>
+    
+    <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

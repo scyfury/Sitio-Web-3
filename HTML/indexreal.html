@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<!-- Comentarios            <>           </>     -->
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>InfSea</title>
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet"> <!--Esta es la coneccion a css bootstrap de manera local-->
+        <link rel="stylesheet" href="../css/estilo.css"> <!-- esta es la referencia al CSS que tiene los diseños-->
+    </head>
+
+
+    <body>
+        <h1 class="text-bg-primary p-3"><em>InfSea</em></h1>
+        <div id="contenedor">
+
+            <nav><!--  Barra de navegación -->
+                <!--este es el formulario de log in-->
+                <form class="position-absolute top-10 end-0">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    Inicio de Sesión
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="form-floating mb-3">
+                                        <input type="User" class="form-control" id="floatingInput" placeholder="">
+                                        <label for="floatingInput">Usuario</label>
+                                    </div>
+                                    <div class="form-floating">
+                                        <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                                        <label for="floatingPassword">Contraseña</label>
+                                    </div>
+                                    <br>
+                                    <div class="d-flex justify-content-end"> <!-- Utilizamos flexbox para alinear el botón 'Entrar' a la derecha -->
+                                        <button class="btn btn-primary me-2" type="submit">Entrar</button>
+                                    </div>
+                                    <hr> <!-- Línea de separación -->
+                                    <div class="text-center"> <!-- Centramos los botones 'Registrarse' y 'Recuperar cuenta' -->
+                                        <button type="button" class="btn btn-primary me-2">Registrarse</button>
+                                        <button type="button" class="btn btn-primary">Recuperar cuenta</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </form>
+                <!--Hasta aqui llega el formulario log in-->
+            </nav>
+            
+            <!--  section es Contenido principal-->
+            <section>
+                <div id="contenedor-tarjetas">
+                    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                    <script>
+                        $(document).ready(function() {
+                            $.ajax({
+                                url: '../php/texto.php',
+                                dataType: 'html',
+                                success: function(data) {
+                                    $('#contenedor-tarjetas').html(data);
+                                }
+                            });
+                        });
+                    </script>
+                </div>
+            </section>
+        
+            <!-- Aside es para hacer una barra lateral en el futuro-->
+            <aside>
+
+            </aside>
+
+            <!-- Footer es para el pie de pagina-->
+            <footer>
+
+            </footer>
+        </div>
+
+        <script src="../bootstrap/js/bootstrap.bundle.min.js"></script> <!--Esta es la coneccion a js bootstrap de manera local-->
+
+    </body>
+
+
+</html>
